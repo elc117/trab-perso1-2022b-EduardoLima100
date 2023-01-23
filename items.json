@@ -1,0 +1,74 @@
+{
+    "queijo": {
+     "referenceProductId": "6083430",
+     "quantity": "2",
+     "slug": "144936-queijo-mussarela-petry-interfolhado",
+     "image_thumbnail": "https://d3o3bdzeq5san1.cloudfront.net/thumbs/210/209999.jpg"
+    },
+    "presunto": {
+     "referenceProductId": "1495988",
+     "quantity": "2",
+     "slug": "34925-presunto-royale-prezato-sadia-fatiado-100g",
+     "image_thumbnail": "https://d3o3bdzeq5san1.cloudfront.net/thumbs/35/34853.jpg"
+    },
+    "requeij\u00e3o": {
+     "referenceProductId": "1369898",
+     "quantity": "1",
+     "slug": "865-requeijao-elege-200g",
+     "image_thumbnail": "https://d3o3bdzeq5san1.cloudfront.net/thumbs/1/864.jpg"
+    },
+    "molho de tomate": {
+     "referenceProductId": "1371165",
+     "quantity": "2",
+     "slug": "6905-molho-de-tomate-fugini-sache-340g",
+     "image_thumbnail": "https://d3o3bdzeq5san1.cloudfront.net/thumbs/7/6901.jpg"
+    },
+    "creme de leite": {
+     "referenceProductId": "1371106",
+     "quantity": "3",
+     "slug": "6620-creme-de-leite-elege-200g",
+     "image_thumbnail": "https://d3o3bdzeq5san1.cloudfront.net/thumbs/7/6639.jpg"
+    },
+    "azeite": {
+     "referenceProductId": "1370003",
+     "quantity": "1",
+     "slug": "1552-azeite-portugues-extravirgem-andorinha-500ml",
+     "image_thumbnail": "https://d3o3bdzeq5san1.cloudfront.net/thumbs/2/1551.jpg"
+    },
+    "leite condensado": {
+     "referenceProductId": "1794261",
+     "quantity": "2",
+     "slug": "71188-leite-condensado-elege-395g",
+     "image_thumbnail": "https://d3o3bdzeq5san1.cloudfront.net/thumbs/132/131801.jpg"
+    },
+    "batata": {
+     "referenceProductId": "1495250",
+     "quantity": "5",
+     "slug": "66363-batata-inglesa-branca-unidade",
+     "image_thumbnail": "https://d3o3bdzeq5san1.cloudfront.net/thumbs/119/118028.jpg"
+    },
+    "cebola": {
+     "referenceProductId": "1388694",
+     "quantity": "3",
+     "slug": "6431-cebola-unidade",
+     "image_thumbnail": "https://d3o3bdzeq5san1.cloudfront.net/thumbs/7/6428.jpg"
+    },
+    "refrigerante": {
+     "referenceProductId": "1370259",
+     "quantity": "1",
+     "slug": "2777-refrigerante-antarctica-guarana-2-l-garrafa",
+     "image_thumbnail": "https://d3o3bdzeq5san1.cloudfront.net/thumbs/3/2776.jpg"
+    },
+    "guaran\u00e1": {
+     "referenceProductId": "1370259",
+     "quantity": "1",
+     "slug": "2777-refrigerante-antarctica-guarana-2-l-garrafa",
+     "image_thumbnail": "https://d3o3bdzeq5san1.cloudfront.net/thumbs/3/2776.jpg"
+    },
+    "cerveja": {
+     "referenceProductId": "1793011",
+     "quantity": "6",
+     "slug": "70857-cerveja-budweiser-473-ml-lata",
+     "image_thumbnail": "https://d3o3bdzeq5san1.cloudfront.net/thumbs/132/131236.jpg"
+    }
+   }
